@@ -12,8 +12,9 @@
             </main>
 
             <footer class="space-x-4">
-                <button class="bg-gray-400 hover:bg-gray-500 text-xs uppercase py-2 px-4 rounded-md text-white transition-all duration-200">Cancel</button>
-                <button class="bg-blue-400 hover:bg-blue-500 text-xs uppercase py-2 px-4 rounded-md text-white transition-all duration-200 mr-2">Continue</button>
+                {{-- <button class="bg-gray-400 hover:bg-gray-500 text-xs uppercase py-2 px-4 rounded-md text-white transition-all duration-200">Cancel</button> --}}
+                <x-button class="bg-gray-400 hover:bg-gray-500">Cancel</x-button>
+                <x-button class="bg-blue-400 hover:bg-blue-500">Continue</x-button>
             </footer>
         </div>
     </div>
