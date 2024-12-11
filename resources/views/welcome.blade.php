@@ -37,7 +37,11 @@
     </div>
 
     {{-- Modal --}}
-    <div class="bg-white shadow-md p-4">
-        <p>I am a modal</p>
+    <div>
+        <div class="fixed inset-0 bg-gray-900 opacity-90"></div>
+
+        <div class="bg-white shadow-md p-4 max-w-sm h-40 m-auto rounded-md fixed inset-0">
+            <p>I am a modal</p>
+        </div>
     </div>
 </x-layout>
