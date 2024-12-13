@@ -16,16 +16,11 @@
             </aside>
 
             <main class="text-sm col-span-9">
-                <p class="mb-4">
-                    Exercitation commodo velit duis reprehenderit anim duis ullamco et ut cillum officia nostrud.
+                <p class="mb-6">
+                    Would you like to delete your account?
                 </p>
-
-                <p class="mb-4">
-                    Pariatur eu ad ad dolor esse mollit sunt esse esse.
-                </p>
-
                 <p>
-                    Eiusmod laborum duis et ipsum occaecat aliquip minim nulla consequat esse nisi voluptate.
+                    <a href="#" class="font-semibold">Yes, delete</a>
                 </p>
             </main>
         </div>
