@@ -11,7 +11,6 @@
 {{-- <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.7/dist/cdn.min.js"></script> --}}
 
 <body class="bg-gray-200">
-
     <div class="container max-w-lg mx-auto bg-gray-300">
         <header class="bg-blue-600 p-4">
             <h1 class="font-bold text-white">
@@ -39,8 +38,5 @@
         </footer>
     </div>
 
-    {{-- {{ $slot }} --}}
-
 @livewireScripts
-
 </body>
