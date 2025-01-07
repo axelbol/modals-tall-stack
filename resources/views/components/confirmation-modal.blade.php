@@ -1,9 +1,7 @@
+@props(['name'])
 <div
-    x-data="{ show: false }"
-    x-show="show"
-
-    {{-- modal appears --}}
-    style="display: none"
+    {{-- x-data="{ show: false }"
+    x-show="show" --}}
 >
     <div class="fixed inset-0 bg-gray-900 opacity-70"></div>
 
